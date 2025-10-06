@@ -1,0 +1,2 @@
+# Earthquake-map
+new app
